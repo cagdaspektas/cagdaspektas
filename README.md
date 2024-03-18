@@ -23,6 +23,9 @@ I am a mobile engineer from Turkey🇹🇷 I describe myself as a friendly socia
 
  
 **⛰ Looking forward to learn:**
+
+ 
+ 
  <code><a href="https://kotlinlang.org/" target="_blank"><img height="50" src="https://reeder.com.tr/media/magefan_blog/what_is_kotlin_banner_image.png"></a></code>
   <code><a href="https://developer.apple.com/swift/resources/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/800px-Swift_logo.svg.png"></a></code>
 
