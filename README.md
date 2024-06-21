@@ -8,7 +8,7 @@ I am a mobile engineer from Turkey🇹🇷 I describe myself as a friendly socia
  
  
 
-**💼 Currently working as:** Mobile Developer at <a href="https://www.vbt.com.tr/" target="_blank">VBT Yazılım</a>.
+**💼 Currently working as:** Mobile Developer at <a href="https://www.marti.tech/" target="_blank">VBT Yazılım</a>.
  
 **👨🏻‍💻 Currently working on:**
  
